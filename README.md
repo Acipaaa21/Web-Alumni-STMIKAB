@@ -1,2 +1,3 @@
 # Web-Alumni-STMIKAB
-Website alumni kampus menggunakan CodeIgniter 3
+Website alumni kampus menggunakan CodeIgniter 
+
